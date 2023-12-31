@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Kerol DJOUMESSI"
 excerpt: "Data Engineer based in Shanghai. Looking for new career opportunities."
 author_profile: true
 header:
