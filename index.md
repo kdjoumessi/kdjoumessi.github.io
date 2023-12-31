@@ -8,6 +8,6 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 # About me
-I'm doing a PhD on Interpretable Machine Learning for Safe Medical Diagnostics at the [Hertie Institute for Artificial Intelligence in Brain Health](https://hertie.ai/data-science/research-groups) and the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/scholars) since June 2021.
+I'm doing a PhD on __Interpretable Machine Learning for Safe Medical Diagnostics__ at the [Hertie Institute for Artificial Intelligence in Brain Health](https://hertie.ai/data-science/research-groups) and the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/scholars) since June 2021.
  
 # Recent News
