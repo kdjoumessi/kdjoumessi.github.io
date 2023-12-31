@@ -1,9 +1,8 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: "About Me"
+permalink: /about/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
+## CV
+casca
