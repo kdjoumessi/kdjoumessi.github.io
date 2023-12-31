@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Data Scientist** "
   location         : "Tübingen, Germany"
-  email            : "djoumessikerol@gmail.com"
+  email            : "kerol[at]gmail[dot]com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
