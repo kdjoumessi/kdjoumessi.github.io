@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kerol DJOUMS"
+title                    : "Kerol DJOUMESSI"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Kerol Djoumessi"
-description              : &description "put the descrption"
+name                     : &name "Kerol Djoum's"
+description              : &description "put the description"
 URL                      : "https://kdjoumessi.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kdjoumessi/kdjoumessi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
