@@ -1,6 +1,5 @@
 ---
-layout: home
-title: "About me"
+title: ""
 author_profile: true
 ---
 # To Do
