@@ -4,6 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Research Associate at the <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">Research Training Group in Computational Cognition, Osnabrück University</a><br>
+PhD student at the <a href="https://hertie.ai/" target="_blank">Hertie Institute for Artificial Intelligence in Brain Health</a>, <a href="https://uni-tuebingen.de/en/" target="_blank"> Tübingen University </a>, and at <a href="https://imprs.is.mpg.de/"> The International Max Planck Research School for Intelligent Systems (IMPRS-IS) </a> <br>
 Osnabrück, Germany<br>
-Email: ybrima[at]uos[dot].de
+Email:  
+- kerol@aims.ac.za
+- kerol.djoumessi-donteu@uni-tuebingen.de
