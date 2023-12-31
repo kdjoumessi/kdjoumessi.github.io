@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Kerol DJOUMESSI"
-excerpt: "Data Engineer based in Shanghai. Looking for new career opportunities."
+excerpt: "Data Scientist based in Tübingen. Looking for new career opportunities."
 author_profile: true
 header:
   overlay_image: /assets/images/tuebingen.jpeg
