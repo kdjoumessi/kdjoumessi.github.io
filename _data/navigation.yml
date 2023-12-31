@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Me"
-    url: /about/
+    url: /docs/_pages/about/
   - title: "Contact"
     url: /contact/
   #- title: "Quick-Start Guide"
