@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "About Me"
-permalink: /about/
+permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
-## About me
-casca
+
+* My research interests
