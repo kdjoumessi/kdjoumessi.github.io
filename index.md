@@ -16,3 +16,9 @@ I hold an undergraduate degree in Computer Mathematics (BSc) and Computer Scienc
 # Research interests
 My research focuses on __interpretable/explainable deep learning models for clinical diagnosis__, particularly inherently interpretable models for medical image analysis with applications in ophthalmology. In addition to interpretability, I am also interested in clinical ethics, resource-efficient deep learning models, and the deployment of deep learning models. 
 
+# Teaching assistants
+- [Machine Learning I](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4323713&client_id=pr02) (Winter semester 2023/2024)
+- [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws22-ml-for-medical-image-analysis-ml4506/) (Winter semester 2022/2023)
+
+# News
+
