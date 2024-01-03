@@ -14,7 +14,7 @@ I am a PhD student in the Department of Data Science at the [Hertie Institute fo
 I hold an undergraduate degree in Computer Mathematics (BSc) and Computer Science (MSc) from the University of Dschang, Cameroon. After another Master's (MSc) in Applied mathematics at the [African Institute for Mathematical Science (AIMS)](https://aims.ac.za/) in South Africa, I joined the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de) where I am doing my PhD in __Machine Learning for Medical Image Analysis__ under the supervision of Prof. Dr. Philipp Berens.
 
 ## Research interests
-My research focuses on __interpretable/explainable deep learning models for clinical diagnosis__, particularly inherently interpretable models for medical image analysis with applications in ophthalmology. In addition to interpretability, I am also interested in clinical ethics, resource-efficient deep learning models, and the deployment of deep learning models. 
+My research focuses on __interpretable/explainable deep learning models for clinical diagnosis__, particularly inherently interpretable models for medical image analysis with applications in ophthalmology. In addition to interpretability, I am also interested in __computer vision, clinical ethics, resource-efficient deep learning models, and the deployment of deep learning models__. 
 
 ## Teaching Assistant (TA)
 - [Machine Learning I](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4323713&client_id=pr02) (Winter semester 2023/2024)
