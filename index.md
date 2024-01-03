@@ -20,5 +20,6 @@ My research focuses on __interpretable/explainable deep learning models for clin
 - [Machine Learning I](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4323713&client_id=pr02) (Winter semester 2023/2024)
 - [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws22-ml-for-medical-image-analysis-ml4506/) (Winter semester 2022/2023)
 
-## News
+## Latest News
+- 10 – 12 July 2023: 
 
