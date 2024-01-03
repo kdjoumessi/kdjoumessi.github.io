@@ -21,5 +21,5 @@ My research focuses on __interpretable/explainable deep learning models for clin
 - [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws22-ml-for-medical-image-analysis-ml4506/) (Winter semester 2022/2023)
 
 ## Latest News
-- 10 – 12 July 2023: 
+- July 2023 - oral presentation at MIDL. We presented our paper on trustworthy AI for image analysis: [presentation](https://www.youtube.com/watch?v=6T5TCBJaYl4) | [slide](https://drive.google.com/file/d/1-hFD1RZmaPQqI5I80nfRZw6mguuvJ-Qo/view) | [conference webpage](https://2023.midl.io/program)
 
