@@ -10,4 +10,8 @@ header:
 ---
 
 ## Education
+ToDo
+
+## Training / Certification
+ToDo
 
