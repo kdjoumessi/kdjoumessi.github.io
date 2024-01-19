@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: " "
 permalink: /about/
 author_profile: true
 excerpt: "Data Scientist based in Tübingen. Looking for new career opportunities."
@@ -10,15 +10,4 @@ header:
 ---
 
 ## Education
-casca
 
-## other
-casca
-
-
-# To Do
-coming soon
-lklknkn
-
-# Recent News
-vnbvvnb
