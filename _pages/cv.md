@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 excerpt: "Data Scientist based in Tübingen. Looking for new career opportunities."
