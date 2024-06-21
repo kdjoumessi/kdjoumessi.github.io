@@ -1,6 +1,6 @@
 ---
 layout: home
-title: " "
+title: "about"
 permalink: /about/
 author_profile: false
 excerpt: "Data Scientist based in Tübingen. Looking for new career opportunities."
