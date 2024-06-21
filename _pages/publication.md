@@ -12,10 +12,12 @@ header:
 
 ## Publications
 <ol>
-<li> Kerol Djoumessi, Bubacarr Bah, Laura Kuhlewein, Philipp Berens, Lisa M. Koch. "This actually looks like that: Proto-BagNets for local and global interpretability-by-design}. accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024 </li>
+<li> <b> <u> Kerol Djoumessi </u>, Bubacarr Bah, Laura Kuhlewein, Philipp Berens, Lisa M. Koch </b>. 
+<a href="https://github.com/kdjoumessi/Proto-BagNets"> "This actually looks like that: Proto-BagNets for local and global interpretability-by-design" </a>
+ accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024 </li>
 <li>McHale</li>
 <li>Parish</li>
-</ol>
+</ol> 
 
 
 
