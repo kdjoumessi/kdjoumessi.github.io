@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /cv/
-  #- title: "Cv"
-  #  url: /cv/
+  - title: "Publication"
+    url: /publication/
   - title: "Contact"
     url: /contact/
   #- title: "Quick-Start Guide"
