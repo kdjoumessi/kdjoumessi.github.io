@@ -16,7 +16,9 @@ header:
 <a href="https://github.com/kdjoumessi/Proto-BagNets"> "This actually looks like that: Proto-BagNets for local and global interpretability-by-design", </a>
  <i> accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024. </i>
 </li>
-<li>McHale</li>
+<li> <b> Julius Gervelmeyer, Sarah Müller, <u> Kerol Djoumessi </u>, David Merle,  Simon Clark, Lisa M. Koch, Philipp Berens </b>,
+  <a href="https://conferences.miccai.org/2024/en/default.asp"> "Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling" </a>. <i> accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024. </i>
+</li>
 <li>Parish</li>
 </ol> 
 
