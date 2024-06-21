@@ -19,7 +19,10 @@ header:
 <li> <b> Julius Gervelmeyer, Sarah Müller, <u> Kerol Djoumessi </u>, David Merle,  Simon Clark, Lisa M. Koch, Philipp Berens </b>,
   <a href="https://conferences.miccai.org/2024/en/default.asp"> "Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling" </a>. <i> accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024. </i>
 </li>
-<li>Parish</li>
+<li>
+  <b> <u> Kerol Djoumessi </u>,  Indu Ilanchezian, Laura Kuhlewein, Hanna Faber, Christian F. Baumgartner, Bubacarr Bah, Philipp Berens, Lisa M. Koch </b>,
+  <a href="https://openreview.net/forum?id=us8BFTsWOq"> "Sparse Activations for Interpretable Disease Grading", <i> Proceedings of the 6th Medical Imaging with Deep Learning (MIDL 2023), Nashville USA, July 10-12, 2023. </i> [Oral presentation]
+</li>
 </ol> 
 
 
