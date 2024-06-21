@@ -2,7 +2,7 @@
 layout: home
 title: " "
 permalink: /about/
-author_profile: true
+author_profile: false
 excerpt: "Data Scientist based in Tübingen. Looking for new career opportunities."
 header:
   overlay_image: /assets/images/tuebingen.jpeg
