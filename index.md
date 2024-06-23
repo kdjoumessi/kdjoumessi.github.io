@@ -21,7 +21,7 @@ My research focuses on __interpretable/explainable deep learning models for clin
 - [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws22-ml-for-medical-image-analysis-ml4506/) (Winter semester 2022/2023)
 
 ## Latest News
-- __Jun 2024__ - Speakers at [https://www.indabaxcameroon.org/speakers](IndabaX Cameroon 2024)
+- __Jun 2024__ - Speakers at [IndabaX Cameroon 2024](https://www.indabaxcameroon.org/speakers)
 - __Jun 2024__ - Two papers accepted at MICCAI 2024
     - _This actually looks like that: Proto-BagNets for local and global interpretability-by-design_
     - _Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling_
