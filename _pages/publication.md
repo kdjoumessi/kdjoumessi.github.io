@@ -24,6 +24,17 @@ header:
   <a href="https://openreview.net/forum?id=us8BFTsWOq"> "Sparse Activations for Interpretable Disease Grading"</a>, 
   <i> Proceedings of the 6th Medical Imaging with Deep Learning (MIDL 2023), Nashville USA, July 10-12, 2023. </i> [Oral presentation]
 </li>
+<li> 
+  <b> Vianney K. Tchendji <u> Kerol Djoumessi </u>,  Yannick F. Yankam </b>,
+  <a href="http://www.cari-info.org/Actes-2018/p122-130.pdf"> "Dynamic Resource allocations in virtual networks through knapsack problem's dynamic programming solution"</a>, 
+  <i> Proceedings of the 14th African Conference on Research in Computer Science and Applied Mathematics, Stellenbosch, South Africa, October 12-17, 2018. </i> [Oral presentation]
+</li>
+<li> 
+  <b> Mathurin SOH, Jean Romain Kouesso, <u> Kerol Djoumessi </u> </b>,
+  <a href="https://www.researchgate.net/publication/301298010_A_Localised_Orthographic_Corrector_for_Poorly_Endowed_National_Languages_in_Cameroon"> "A Localized Orthographic Corrector for Poorly Endowed National Languages in Cameroon"</a>, 
+  <i> Proceedings of the First International Conference on Information and Communication Technology for Africa Development (ICT4AD), Yaoundé, Cameroon, January 04-06, 2016. </i> 
+</li>
+  
 </ol> 
 
 
