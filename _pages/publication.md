@@ -23,7 +23,7 @@ header:
 </li>
 
 <li> <b> Julius Gervelmeyer, Sarah Müller, <u> Kerol Djoumessi </u>, David Merle,  Simon Clark, Lisa M. Koch, Philipp Berens </b>,
-  <a href="github.com/berenslab/interpretable-deep-survival-analysis"> "Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling"</a>,      <i> accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024. </i>
+  <a href="https://github.com/berenslab/interpretable-deep-survival-analysis"> "Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling"</a>,      <i> accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024. </i>
 </li>
 
 <li>
