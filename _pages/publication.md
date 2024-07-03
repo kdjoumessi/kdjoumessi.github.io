@@ -14,7 +14,7 @@ header:
 <ol>
 <li> <b> <u> Kerol Djoumessi </u>, Ziwei Huang, Laura Kuhlewein, Annekatrin Rickmann, Natalia Simon, Lisa M. Koch, Philipp Berens </b>,
 <a href="https://www.medrxiv.org/content/10.1101/2024.06.27.24309574v1"> "An Inherently Interpretable AI model improves Screening Speed and Accuracy for Early Diabetic Retinopathy"</a>,
- <i> Submitted to Lancet Digital Health, Jun 2024. </i>
+ <i> Submitted, Jun 2024. </i>
 </li>
   
 <li> <b> <u> Kerol Djoumessi </u>, Bubacarr Bah, Laura Kuhlewein, Philipp Berens, Lisa M. Koch </b>, 
