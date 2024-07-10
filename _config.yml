@@ -38,8 +38,7 @@ comments:
     shortname            : "kdjoumessi"
   discourse              :
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook: 
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -110,13 +109,14 @@ author:
   name             : "Kerol DJOUMESSI"
   avatar           : "/assets/images/profile.png"
   bio              : "**Data Scientist**, Universität Tübingen "
-  location         : "Tübingen, Germany"
+  location         : "Tübingen, Germany"  
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=kerol+djoumessi"
+  googlescholar    : "https://scholar.google.com/citations?user=DsvdINYAAAAJ&hl=en"
   email            : "kerol[at]gmail[dot]com"
   researchgate     :  "https://www.researchgate.net/profile/Djoumessi-Kerol-2"
   github           : "kdjoumessi"
   linkedin         : "djoumessi-kerol-9048b5108/"
   twitter          : "DjoumessiKerol"
-  googlescholar    : "https://scholar.google.com/citations?user=mcXNEOIAAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
