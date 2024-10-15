@@ -14,16 +14,16 @@ header:
 <ol>
 <li> <b> <u> Kerol Djoumessi </u>, Ziwei Huang, Laura Kuhlewein, Annekatrin Rickmann, Natalia Simon, Lisa M. Koch, Philipp Berens </b>,
 <a href="https://www.medrxiv.org/content/10.1101/2024.06.27.24309574v1"> "An Inherently Interpretable AI model improves Screening Speed and Accuracy for Early Diabetic Retinopathy"</a>,
- <i> Submitted, Jun 2024. </i>
+ <i> Jun 2024. </i>
 </li>
   
 <li> <b> <u> Kerol Djoumessi </u>, Bubacarr Bah, Laura Kuhlewein, Philipp Berens, Lisa M. Koch </b>, 
-<a href="http://arxiv.org/abs/2406.15168"> "This actually looks like that: Proto-BagNets for local and global interpretability-by-design"</a>,
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-72117-5_67"> "This actually looks like that: Proto-BagNets for local and global interpretability-by-design"</a>,
  <i> accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024. </i>
 </li>
 
 <li> <b> Julius Gervelmeyer, Sarah Müller, <u> Kerol Djoumessi </u>, David Merle,  Simon Clark, Lisa M. Koch, Philipp Berens </b>,
-  <a href="https://www.medrxiv.org/content/10.1101/2024.07.11.24310270v1"> "Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling"</a>,      
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-72117-5_47"> "Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling"</a>,      
   <i> accepted to the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, October 6-10, 2024. </i>
 </li>
 
