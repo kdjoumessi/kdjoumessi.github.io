@@ -21,7 +21,7 @@ My research focuses on __explainable deep learning models for clinical diagnosis
 - [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws22-ml-for-medical-image-analysis-ml4506/) (Winter semester 2022/2023)
 
 ## Latest News
-- __October 2024__ - We presented our accepted  papers [This actually looks like that: Proto-BagNets for local and global interpretability-by-design]([https://link.springer.com/chapter/10.1007/978-3-031-72117-5_67] and [Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling]([[https://www.bek.news/ladiesofanotherview/2023-08-08/](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_67](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_47) at MICCAI 2024 
+- __October 2024__ - We presented our accepted  papers [This actually looks like that: Proto-BagNets for local and global interpretability-by-design][https://link.springer.com/chapter/10.1007/978-3-031-72117-5_67] and [Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling]([[https://www.bek.news/ladiesofanotherview/2023-08-08/](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_67](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_47) at MICCAI 2024 
 - __July 2024__ - Participation at the [UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss) hosted at UCL (London) 
 - __Jun 2024__ - Speakers at [IndabaX Cameroon 2024]([https://www.indabaxcameroon.org/speakers](https://deeplearningindaba.com/2024/indabax/cameroon/))
 - __Jun 2024__ - Two papers accepted at MICCAI 2024
