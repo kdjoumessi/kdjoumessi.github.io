@@ -17,8 +17,8 @@ header:
  <i> Plos Digital Health, April 2025. </i>
 </li>
 
-<li> <b> <u> Kerol Djoumessi, Philipp Berens </b>,
-<a href="https://arxiv.org/abs/2505.17748"> "Soft-CAM: Making black box models self-explainable for high-stakes decisions"</a>, 
+<li> <b> <u> Kerol Djoumessi </u>, Philipp Berens </b>,
+<a href="https://arxiv.org/abs/2505.17748"> "Soft-CAM: Making black box models self-explainable for high-stakes decisions" </a>, 
  <i> arXiv, May 2025. </i>
 </li>
 
