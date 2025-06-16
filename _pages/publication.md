@@ -12,6 +12,11 @@ header:
 
 ## Publications 
 <ol>  
+<li> <b> Samuel Ofosu Mensah, Jonas Neubauer, Murat Seçkin Ayhan, <u> Kerol Djoumessi </u>, Lisa Koch, Mehmet Murat Uzel, Faik Gelisken, Philipp Berens </b>,
+<a href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000831"> "Clinically Interpretable Deep Learning via Sparse BagNets for Epiretinal Membrane and Related Pathology Detection"</a>, 
+ <i> medrxiv., Jun 2025. </i>
+</li>
+  
 <li> <b> <u> Kerol Djoumessi </u>, Ziwei Huang, Laura Kuhlewein, Annekatrin Rickmann, Natalia Simon, Lisa M. Koch, Philipp Berens </b>,
 <a href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000831"> "An Inherently Interpretable AI model improves Screening Speed and Accuracy for Early Diabetic Retinopathy"</a>, 
  <i> Plos Digital Health, April 2025. </i>
