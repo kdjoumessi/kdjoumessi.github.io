@@ -11,6 +11,11 @@ header:
 [Click here for my Google Scholar](https://scholar.google.com/citations?user=DsvdINYAAAAJ&hl=en)
 
 ## Publications 
+<li> <b> Samuel Ofosu Mensah, <u> Kerol Djoumessi </u>, Philipp Berens </b>,
+<a href="[https://arxiv.org/abs/2504.08481](https://arxiv.org/abs/2507.05852)"> "Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning"</a>, 
+ <i> Accepted at MICCAI 2025. </i>
+</li>
+
 <ol>  
 <li> <b> Samuel Ofosu Mensah, Jonas Neubauer, Murat Seçkin Ayhan, <u> Kerol Djoumessi </u>, Lisa Koch, Mehmet Murat Uzel, Faik Gelisken, Philipp Berens </b>,
 <a href="https://www.medrxiv.org/content/10.1101/2025.06.05.25329045v1"> "Clinically Interpretable Deep Learning via Sparse BagNets for Epiretinal Membrane and Related Pathology Detection"</a>, 
