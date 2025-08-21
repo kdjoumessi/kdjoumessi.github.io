@@ -12,6 +12,11 @@ header:
 
 ## Publications 
 <ol>  
+<li> <b> <u> Kerol Djoumessi </u>, Samuel Ofosu Mensah, Philipp Berens </b>,
+<a href="https://arxiv.org/abs/2504.08481"> "A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification"</a>, 
+ <i> Accepted at the 8th IMIMIC Workshop on Interpretability in Medical Image Computing at MICCAI 2025 </i>
+</li>
+  
 <li> <b> Samuel Ofosu Mensah, <u> Kerol Djoumessi </u>, Philipp Berens </b>,
 <a href="[https://arxiv.org/abs/2504.08481](https://arxiv.org/abs/2507.05852)"> "Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning"</a>, 
  <i> Accepted at MICCAI 2025. </i>
@@ -29,11 +34,6 @@ header:
 
 <li> <b> <u> Kerol Djoumessi </u>, Philipp Berens </b>,
 <a href="https://arxiv.org/abs/2505.17748"> "Soft-CAM: Making black box models self-explainable for high-stakes decisions" </a>, 
- <i> arXiv, May 2025. </i>
-</li>
-
-<li> <b> <u> Kerol Djoumessi </u>, Samuel Ofosu Mensah, Philipp Berens </b>,
-<a href="https://arxiv.org/abs/2504.08481"> "A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification"</a>, 
  <i> arXiv, May 2025. </i>
 </li>
   
