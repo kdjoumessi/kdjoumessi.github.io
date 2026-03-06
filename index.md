@@ -26,6 +26,12 @@ Beyond interpretability, I am also interested in __Vision Language Models (VLMs)
 - [Machine Learning I](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4323713&client_id=pr02) (Winter semester 2023/2024)
 - [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws22-ml-for-medical-image-analysis-ml4506/) (Winter semester 2022/2023)
 
+## Student supervision
+MSc students: 
+- Frederik Spieß (Sep 2025 - March 2026) | MSc Medical Informatics (University of Tübingen)
+- Anna Schäfer (Oct 2025 - April 2026) | MSc --- (University of Tübingen)
+- Olivier Kanamugire (2024) | Msc in Mathematical Sciences (AIMS Rwanda)
+
 ## Latest News
 - __February 2026__ - <span style="color:red"> New accepted paper</span> - Our paper [SoftCAM: Making black box models self-explainable for high-stakes decisions](https://openreview.net/forum?id=3v1rKkPvuU) has been accepted at [MIDL 2026](https://2026.midl.io/). In this work, we present __SoftCAM__, a simple yet effective method to transform black-box CNNs into inherently self-explainable models, with extensive validation on medical imaging datasets. Unlike post-hoc methods, Soft-CAM modifies the network architecture itself: we remove the global average pooling layer and replace the fully connected classifier with a spatially aware class-evidence layer—implemented via a convolutional layer. This design preserves spatial information and produces class-specific evidence maps that directly support the model’s predictions. We further enhance interpretability by applying an ElasticNet regularization on the evidence maps to refine the explanations. Quantitative comparisons show that Soft-CAM outperforms existing class activation map (CAM) methods, all without compromising classification performance.
 - __Febuary 2026__ - <span style="color:red"> 
