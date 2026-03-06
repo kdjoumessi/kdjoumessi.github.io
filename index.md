@@ -13,7 +13,7 @@ I am currently a postdoc researcher at the [Hertie Institute for AI in Brain Hea
 I conducted my PhD on __Interpretable Machine Learning for Safe Medical Diagnostics__ in the Department of Data Science at the [Hertie Institute for Artificial Intelligence in Brain Health](https://hertie.ai/data-science/team/members/kerol-djoumessi) at the [University of Tübingen](https://uni-tuebingen.de/en/). During my PhD studies, I was also a scholar of the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/scholars).
  
 ## Bio
-I hold a bachelor's degree in Computer Mathematics (BSc) and a master's degree (MSc) in Computer Science from the University of Dschang in Cameroon. I then completed a second Master's degree (MSc) in Applied mathematics at the [African Institute for Mathematical Science (AIMS)](https://aims.ac.za/) in South Africa. 
+I hold a bachelor's degree in Computer Mathematics (BSc) and a master's degree (MSc) in Computer Science from the University of Dschang in Cameroon. I then completed a second Master's degree (MSc) in Applied Mathematics at the [African Institute for Mathematical Science (AIMS)](https://aims.ac.za/) in South Africa. 
 
 Following this, I joined the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de) where I pursued my PhD in __Machine Learning for Medical Image Analysis__ under the supervision of [Prof. Dr. Philipp Berens](https://hertie.ai/data-science).
 
