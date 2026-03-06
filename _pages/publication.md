@@ -14,12 +14,12 @@ header:
 <ol>  
 <li> <b> <u> Kerol Djoumessi </u>, Samuel Ofosu Mensah, Philipp Berens </b>,
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-17611-0_11"> "A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification"</a>, 
- <i> Oral presentation </i>
+ <i> IMIMIC-MICCAI Workshop, Oral presentation </i>
 </li>
   
 <li> <b> Samuel Ofosu Mensah, <u> Kerol Djoumessi </u>, Philipp Berens </b>,
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-04981-0_44"> "Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning"</a>, 
- <i> Accepted at MICCAI 2025. </i>
+ <i> MICCAI 2025. </i>
 </li>
   
 <li> <b> Samuel Ofosu Mensah, Jonas Neubauer, Murat Seçkin Ayhan, <u> Kerol Djoumessi </u>, Lisa Koch, Mehmet Murat Uzel, Faik Gelisken, Philipp Berens </b>,
@@ -34,7 +34,7 @@ header:
 
 <li> <b> <u> Kerol Djoumessi </u>, Philipp Berens </b>,
 <a href="https://openreview.net/forum?id=3v1rKkPvuU#discussion"> "Soft-CAM: Making black box models self-explainable for high-stakes decisions" </a>, 
- <i> arXiv, May 2025. </i>
+ <i> Accepted at MIDL 2026. </i>
 </li>
   
 <li> <b> <u> Kerol Djoumessi </u>, Bubacarr Bah, Laura Kuhlewein, Philipp Berens, Lisa M. Koch </b>, 
