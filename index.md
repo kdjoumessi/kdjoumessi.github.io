@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 # About me
-I am currently a postdoc researcher at the [https://hertie.ai/data-science/about-us](Hertie Institute for AI in Brain Health), where my work focuses on trustworthy AI for medical applications. My research interests center on building methods that can safely and reliably improve patient care and support user well-being.
+I am currently a postdoc researcher at the [Hertie Institute for AI in Brain Health](https://hertie.ai/data-science/about-us), where my work focuses on trustworthy AI for medical applications. My research interests center on building methods that can safely and reliably improve patient care and support user well-being.
 
 I conducted my PhD on __Interpretable Machine Learning for Safe Medical Diagnostics__ in the Department of Data Science at the [Hertie Institute for Artificial Intelligence in Brain Health](https://hertie.ai/data-science/team/members/kerol-djoumessi) at the [University of Tübingen](https://uni-tuebingen.de/en/). During my PhD studies, I was also a scholar of the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/scholars).
  
