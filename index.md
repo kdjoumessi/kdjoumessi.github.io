@@ -58,7 +58,7 @@ MSc students:
 State (Nigeria) organized by the Biomedical Science Research and Training Centre (BioRTC) Yobe State University
 
 ## Reviewing
-- [MICCAI](https://miccai.org/)(4+4+4): 2024, 2025, 2025
+- [MICCAI](https://miccai.org/) (4+4+4): 2024, 2025, 2025
 - [MIDL](https://www.midl.io/) (1+4): 2025, 2026
 - [FIAMI-MICCAI Workshop](https://faimi-workshop.github.io/) (3): 2025
 - [IMIMIC-MICCAI Workshop](https://imimic-workshop.com/) (3): 2025
