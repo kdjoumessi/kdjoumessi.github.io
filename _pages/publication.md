@@ -10,7 +10,7 @@ header:
 ---
 [Click here for my Google Scholar](https://scholar.google.com/citations?user=DsvdINYAAAAJ&hl=en)
 
-## Publications 
+## Selected publications 
 <ol>  
 <li> <b> <u> Kerol Djoumessi </u>, Samuel Ofosu Mensah, Philipp Berens </b>,
 <a href="https://arxiv.org/abs/2504.08481"> "A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification"</a>, 
