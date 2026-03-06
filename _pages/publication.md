@@ -52,8 +52,6 @@ header:
   <a href="https://openreview.net/forum?id=us8BFTsWOq"> "Sparse Activations for Interpretable Disease Grading"</a>, 
   <i> Proceedings of the 6th Medical Imaging with Deep Learning (MIDL 2023), Nashville USA, July 10-12, 2023. </i> [Oral presentation]
 </li>
-</li>
-</ol> 
 
 
 
