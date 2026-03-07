@@ -28,7 +28,7 @@ Beyond interpretability, I am also interested in __Vision Language Models (VLMs)
 
 ## Student supervision
 MSc students: 
-| | | | |
+|Name |Period |Field |Institution |
 |:-|-|-|-|
 |Frederik Spieß| Sep 2025 - March 2026 | MSc in Medical Informatics| University of Tübingen |
 |Anna Schäfer| Oct 2025 - April 2026 | MSc in Medical Informatics | University of Tübingen |
