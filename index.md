@@ -49,7 +49,7 @@ MSc students:
 - __July 2024__ - Participation at the [UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss) hosted at UCL (London) 
 - __Jun 2024__ - Speakers at [IndabaX Cameroon 2024]([https://www.indabaxcameroon.org/speakers](https://deeplearningindaba.com/2024/indabax/cameroon/))
 - __Jun 2024__ - Two papers accepted at MICCAI 2024
-    - _This actually looks like that: Proto-BagNets for local and global interpretability-by-design_
+    - <i> This actually looks like that: Proto-BagNets for local and global interpretability-by-design </i>
     - _Interpretable-by-design Deep Survival Analysis for Disease Progression Modeling_
 - __March 2024__ - Tutor during the [Foundational Methods in Data Science Training School](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qla.aimsric.org/%3Fevents%3Dfoundational-methods-in-data-science-training-school-2&ved=2ahUKEwjG6OO3xdmFAxUkhP0HHZ4iD_8QFnoECBMQAQ&usg=AOvVaw2DpuHiMg8Qoa8mse70vxwo) in Kigali organized by the AIMS Research and Innovation Center (AIMS-RIC). I gave a talk on __"Trustworthy ML for medical image diagnosis"__.
 - __August 2023__ - Invitation to the TV show [“Ladies of Another View”](https://www.bek.news/ladiesofanotherview/2023-08-08/) to talk about the challenges of Artificial Intelligence: [watch](https://www.bek.news/ladiesofanotherview/2023-08-08/)
