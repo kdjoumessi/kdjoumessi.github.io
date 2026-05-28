@@ -15,7 +15,7 @@ I completed my PhD on __Interpretable Machine Learning for Safe Medical Diagnost
 ## Bio
 I hold a bachelor's degree in Computer Mathematics (BSc) and a master's degree (MSc) in Computer Science from the University of Dschang in Cameroon. I then completed a second Master's degree (MSc) in Applied Mathematics at the [African Institute for Mathematical Science (AIMS)](https://aims.ac.za/) in South Africa. 
 
-Following this, I joined the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de) where I completed my PhD in __Machine Learning for Medical Image Analysis__ under the supervision of [Prof. Dr. Philipp Berens](https://hertie.ai/data-science).
+Following this, I joined the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de) where I completed my PhD on __Self-explainable Machine Learning for Medical Image Analysis__ under the supervision of [Prof. Dr. Philipp Berens](https://hertie.ai/data-science).
 
 ## Research interests
 My research focuses on __explainable deep learning for clinical diagnosis__, with emphasis on inherently interpretable models for medical image analysis. My current work includes applications in ophthalmology and radiology.
