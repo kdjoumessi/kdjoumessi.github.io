@@ -28,7 +28,7 @@ Beyond interpretability, I am also interested in __Vision Language Models (VLMs)
 
 ## Student supervision
 MSc students: 
-- Asonyu Senge Njih (Feb - Aug 2026) -- MSc in Machine Learning -- University of Dschand, Cameroon
+- Asonyu Senge Njih (Feb - Aug 2026) -- MSc in Machine Learning -- University of Dschang, Cameroon
 - Frederik Spieß (Sep 2025 - March 2026) -- MSc in Medical Informatics -- University of Tübingen, Germany
 - Anna Schäfer (Oct 2025 - April 2026) -- MSc in Medical Informatics -- University of Tübingen, Germany
 - Olivier Kanamugire (2024) -- Msc in Mathematical Sciences -- AIMS Rwanda
